@@ -1,21 +1,21 @@
 POS,NO,DRIVER,CAR,Q1,Q2,Q3,LAPS,RACE_NO,SEASON,TRACK
-1,44,LewisÂ Hamilton,MERCEDES,1:26.818,1:26.256,1:25.892,16,10,2018,Great Britain
-2,5,SebastianÂ Vettel,FERRARI,1:26.585,1:26.372,1:25.936,17,10,2018,Great Britain
-3,7,KimiÂ RÃ¤ikkÃ¶nen,FERRARI,1:27.549,1:26.483,1:25.990,17,10,2018,Great Britain
-4,77,ValtteriÂ Bottas,MERCEDES,1:27.025,1:26.413,1:26.217,15,10,2018,Great Britain
-5,33,MaxÂ Verstappen,RED BULL RACING TAG HEUER,1:27.309,1:27.013,1:26.602,14,10,2018,Great Britain
-6,3,DanielÂ Ricciardo,RED BULL RACING TAG HEUER,1:27.979,1:27.369,1:27.099,14,10,2018,Great Britain
-7,20,KevinÂ Magnussen,HAAS FERRARI,1:28.143,1:27.730,1:27.244,19,10,2018,Great Britain
-8,8,RomainÂ Grosjean,HAAS FERRARI,1:28.086,1:27.522,1:27.455,20,10,2018,Great Britain
-9,16,CharlesÂ Leclerc,SAUBER FERRARI,1:27.962,1:27.790,1:27.879,19,10,2018,Great Britain
-10,31,EstebanÂ Ocon,FORCE INDIA MERCEDES,1:28.279,1:27.843,1:28.194,20,10,2018,Great Britain
-11,27,NicoÂ Hulkenberg,RENAULT,1:28.017,1:27.901,,12,10,2018,Great Britain
-12,11,SergioÂ Perez,FORCE INDIA MERCEDES,1:28.210,1:27.928,,14,10,2018,Great Britain
-13,14,FernandoÂ Alonso,MCLAREN RENAULT,1:28.187,1:28.139,,12,10,2018,Great Britain
-14,10,PierreÂ Gasly,SCUDERIA TORO ROSSO HONDA,1:28.399,1:28.343,,15,10,2018,Great Britain
-15,9,MarcusÂ Ericsson,SAUBER FERRARI,1:28.249,1:28.391,,16,10,2018,Great Britain
-16,55,CarlosÂ Sainz,RENAULT,1:28.456,,,8,10,2018,Great Britain
-17,2,StoffelÂ Vandoorne,MCLAREN RENAULT,1:29.096,,,9,10,2018,Great Britain
-18,35,SergeyÂ Sirotkin,WILLIAMS MERCEDES,1:29.252,,,7,10,2018,Great Britain
-19,18,LanceÂ Stroll,WILLIAMS MERCEDES,DNF,,,2,10,2018,Great Britain
-20,28,BrendonÂ Hartley,SCUDERIA TORO ROSSO HONDA,DNF,,,0,10,2018,Great Britain
+1,77,Valtteri Bottas,MERCEDES,01:32.7,01:31.7,01:31.5,16,3,2019,Shanghai International Circuit
+2,44,Lewis Hamilton,MERCEDES,01:33.1,01:31.6,01:31.6,16,3,2019,Shanghai International Circuit
+3,5,Sebastian Vettel,FERRARI,01:33.6,01:32.2,01:31.8,17,3,2019,Shanghai International Circuit
+4,16,Charles Leclerc,FERRARI,01:32.7,01:32.3,01:31.9,16,3,2019,Shanghai International Circuit
+5,33,Max Verstappen,RED BULL RACING HONDA,01:33.3,01:32.4,01:32.1,14,3,2019,Shanghai International Circuit
+6,10,Pierre Gasly,RED BULL RACING HONDA,01:33.9,01:32.9,01:32.9,14,3,2019,Shanghai International Circuit
+7,3,Daniel Ricciardo,RENAULT,01:33.7,01:33.2,01:33.0,18,3,2019,Shanghai International Circuit
+8,27,Nico Hulkenberg,RENAULT,01:33.6,01:33.0,01:33.0,15,3,2019,Shanghai International Circuit
+9,20,Kevin Magnussen,HAAS FERRARI,01:34.0,01:33.1,DNF,16,3,2019,Shanghai International Circuit
+10,8,Romain Grosjean,HAAS FERRARI,01:33.8,01:33.2,DNF,15,3,2019,Shanghai International Circuit
+11,26,Daniil Kvyat,SCUDERIA TORO ROSSO HONDA,01:33.8,01:33.2,,12,3,2019,Shanghai International Circuit
+12,11,Sergio Perez,RACING POINT BWT MERCEDES,01:34.0,01:33.3,,12,3,2019,Shanghai International Circuit
+13,7,Kimi Raikkonen,ALFA ROMEO RACING FERRARI,01:34.1,01:33.4,,12,3,2019,Shanghai International Circuit
+14,55,Carlos Sainz,MCLAREN RENAULT,01:33.7,01:33.5,,12,3,2019,Shanghai International Circuit
+15,4,Lando Norris,MCLAREN RENAULT,01:34.1,01:34.0,,12,3,2019,Shanghai International Circuit
+16,18,Lance Stroll,RACING POINT BWT MERCEDES,01:34.3,,,6,3,2019,Shanghai International Circuit
+17,63,George Russell,WILLIAMS MERCEDES,01:35.3,,,9,3,2019,Shanghai International Circuit
+18,88,Robert Kubica,WILLIAMS MERCEDES,01:35.3,,,9,3,2019,Shanghai International Circuit
+19,99,Antonio Giovinazzi,ALFA ROMEO RACING FERRARI,DNF,,,2,3,2019,Shanghai International Circuit
+20,28,Alexander Albon,SCUDERIA TORO ROSSO HONDA,DNF,,,0,3,2019,Shanghai International Circuit
