@@ -10,6 +10,15 @@ There are two major types of projects represented in this repo: mini-projects, d
 
 <b>Data</b>. Data was collected manually from F1.com and Wikipedia.
 
+<b>Specifics</b>. Each race, consisting of 20 drivers, is a separate event, which has specific track, weather conditions, drivers' and cars' form and so on. So there is not that straight away approach to put all the available data in one dataframe. History of drivers' and cars' form were figured out.
+Another snag is a big range of randomeness of race results due to relatively large probability of crashes, drivers' mistakes or car failures. There nuances were considered in probabilistic manner.
+
+<b>Model</b>. The algorithm trained with LightGBM.
+
+<b>Optimizer</b>. A manual profit optimizer was build based on <link href="https://en.wikipedia.org/wiki/Sharpe_ratio">Sharpe ratio</link> maximization, which is used in investment optimizations.
+
+<b>Results</b>. Pure probabilistic model predicts correctly 9 out of 10 top finishers in average. Profit optimizator makes about 20% profit for a race in average.
+
 ### 2. Medical Diagnostics Predictor
 
 ### 3. Online User Identity
