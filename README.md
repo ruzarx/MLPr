@@ -32,7 +32,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model managed to achieve over 0.6 in F1-score and 0.55 in recall compared to baseline around 0.3 for both metrics.
 
-### 3. Online User Identity ([ipynb]("https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb"))
+### 3. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb))
 
 <b>Motivation</b>. Final project of Yandex/MIPT Coursera specialization. It is aimed to predict a specific internet user based on his/her browsing history.
 
