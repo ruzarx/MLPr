@@ -16,11 +16,11 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Model</b>. The algorithm trained with LightGBM.
 
-<b>Optimizer</b>. A manual profit optimizer was build based on [a link](https://en.wikipedia.org/wiki/Sharpe_ratio)Sharpe ratio</link> maximization, which is used in investment optimizations.
+<b>Optimizer</b>. A manual profit optimizer was build based on [Sharpe ratio](https://en.wikipedia.org/wiki/Sharpe_ratio) maximization, which is used in investment optimizations.
 
 <b>Results</b>. Pure probabilistic model predicts correctly 9 out of 10 top finishers in average. Profit optimizator makes about 20% profit for a race in average.
 
-### 2. Medical Diagnostics Predictor (<link href="https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.ipynb">ipynb</link>, <link href="https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.html">html</link>)
+### 2. Medical Diagnostics Predictor ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.ipynb), [html](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.html)
 
 <b>Motivation></b>. Preparation for my future project with a medic companion to build a ML NLP model, which will predict required diagnostics for a patient based on his/her anamnesis, written in free text form.
 
