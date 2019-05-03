@@ -2,6 +2,20 @@
 
 There are two major types of projects represented in this repo: mini-projects, dedicated to solving some minor problem, or data analysis; major projects with complex approach.
 
+## Summary
+
+### Projects
+
+1. Formula-1 Bet Predictor and Win Optimizer - predicts probabilities of every F1 driver to finish in top-10 and based on these probabilities and bookmakers coefficients calculates the optimal bet for maximum expected win.
+2. Medical Diagnostics Predictor - predicts diagnostics required for a patient based on his/her anamnesys.
+3. Online User Identity - predicts specific internet user based on his/her behavior online.
+
+### Mini-projects
+
+1. Car Price Prediction - predicts used car market price based on Auto.ru ads and car characteristics.
+2. Car Maintenance Price Prediction - predicts car maintenance price based on car model, producer and other characteristics.
+3. Online Gaming Data Analysis - exploring the effect of online matching algorithm change.
+
 ## Projects
 
 ### 1. Formula-1 Bet Predictor and Win Optimizer
@@ -20,7 +34,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Pure probabilistic model predicts correctly 9 out of 10 top finishers in average. Profit optimizator makes about 20% profit for a race in average.
 
-### 2. Medical Diagnostics Predictor ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.ipynb), [html](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.html)
+### 2. Medical Diagnostics Predictor ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.ipynb), [html](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.html))
 
 <b>Motivation></b>. Preparation for my future project with a medic companion to build a ML NLP model, which will predict required diagnostics for a patient based on his/her anamnesis, written in free text form.
 
@@ -32,7 +46,17 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model managed to achieve over 0.6 in F1-score and 0.55 in recall compared to baseline around 0.3 for both metrics.
 
-### 3. Online User Identity
+### 3. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb))
+
+<b>Motivation</b>. Final project of Yandex/MIPT Coursera specialization. It is aimed to predict a specific internet user based on his/her browsing history.
+
+<b>Data</b>. Source data is represented by users lists, webpages they visited and timestamps of the visit.
+
+<b>Specifics</b>. As for every user browsing sessions are massively different in count (somebody visits dozens of pages in one session and someone visits only a few), the session window approach was used - each session was limited by 7, 10 or 15 visits (compared inside). All pages above that number for the same user were considered in another sessions. 
+
+<b>Model</b>. Logistic regression worked well enough for the task.
+
+<b>Results</b>. Model showed over 0.87 with ROC-AUC score.
 
 ## Mini-projects
 
