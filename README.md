@@ -13,8 +13,8 @@ There are two major types of projects represented in this repo: mini-projects, d
 ### Mini-projects
 
 1. Car Price Prediction - predicts used car market price based on Auto.ru ads and car characteristics.
-2. Car Maintenance Price Prediction - predicts car maintenance price based on car model, producer and other characteristics.
-3. Online Gaming Data Analysis - exploring the effect of online matching algorithm change.
+2. Online Gaming Data Analysis - exploring the effect of online matching algorithm change.
+3. Car Maintenance Price Analysis - car maintenance price analysis based on car model, producer and other characteristics.
 
 ## Projects
 
@@ -60,8 +60,24 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 ## Mini-projects
 
-### 1. Car Price Prediction
+### 1. Car Price Prediction ([ipynb](https://github.com/ruzarx/MLPr/blob/master/VW_price/VW_Price.ipynb))
 
-### 2. Car Maintenance Price Prediction
+<b>Motivation</b>. The project arised when I was selling my car and tried to set adequate price for my advertisement.
 
-### 3. Online Gaming Data Analysis
+<b>Data</b>. Data was collected manually from Auto.ru. The sample consists of Volkswagen Golf cars.
+
+<b>Model</b>. As the data looks a lot like linear, LassoCV model was chosen for fitting.
+
+<b>Results</b>. The accuracy achieved on my exact car with the model differed by less than 1% compared to the price, calculated by Auto.ru algorithm.
+
+### 2. Online Gaming Data Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Game_analysis/Game_matching_algorithm_analysis.ipynb))
+
+<b>Motivation</b>. Exploration of dataset of online shooter game statistics in order for analyse the quality of changes in gamers eperience due to players matching algorithm change.
+
+<b>Data</b>. Dataset consists of match timestamp, teams distributions, players levels and match statistics - frags, assists and deaths.
+
+<b>Specifics</b>. The data is specific due to online gaming features. So I conducted detailed analysis of the dataset and the effect of matching algorithm change.
+
+### 3. Car Maintenance Price Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Car_dataset/Car_Maintenance.ipynb))
+
+<b>Motivation</b>. Exploration of car maintenance price based on different car characteristics including technical ones and common ones, like car producer, model and so on.
