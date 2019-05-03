@@ -18,7 +18,7 @@ There are two major types of projects represented in this repo: mini-projects, d
 
 ## Projects
 
-### 1. Formula-1 Bet Predictor and Win Optimizer
+### 1. Formula-1 Bet Predictor and Win Optimizer ([predictor](https://github.com/ruzarx/MLPr/blob/master/F1/F1_Prediction.ipynb), [Sharpe ratio optimizer](https://github.com/ruzarx/MLPr/blob/master/F1/Profit%20maximization.ipynb))
 
 <b>Motivation</b>. This project is inspired by my passion to Formula-1 racing. The goal was to predict probabilities of all the drivers to finish in top-10 in upcoming race and based on these probabilities and bookmaker's coefficients optimize the set and money bets to maximize the profit.
 
