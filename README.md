@@ -2,6 +2,20 @@
 
 There are two major types of projects represented in this repo: mini-projects, dedicated to solving some minor problem, or data analysis; major projects with complex approach.
 
+## Summary
+
+### Projects
+
+1. Formula-1 Bet Predictor and Win Optimizer - predicts probabilities of every F1 driver to finish in top-10 and based on these probabilities and bookmakers coefficients calculates the optimal bet for maximum expected win.
+2. Medical Diagnostics Predictor - predicts diagnostics required for a patient based on his/her anamnesys.
+3. Online User Identity - predicts specific internet user based on his/her behavior online.
+
+### Mini-projects
+
+1. Car Price Prediction - predicts used car market price based on Auto.ru ads and car characteristics.
+2. Car Maintenance Price Prediction - predicts car maintenance price based on car model, producer and other characteristics.
+3. Online Gaming Data Analysis - exploring the effect of online matching algorithm change.
+
 ## Projects
 
 ### 1. Formula-1 Bet Predictor and Win Optimizer
