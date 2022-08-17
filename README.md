@@ -46,7 +46,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model managed to achieve over 0.6 in F1-score and 0.55 in recall compared to baseline around 0.3 for both metrics.
 
-### 3. Car Price Prediction ((https://github.com/ruzarx/MLPr/blob/master/VW_price/VW_Price.ipynb))
+### 3. Car Price Prediction ([project page](https://github.com/ruzarx/MLPr/tree/master/VW_price))
 
 <b>Motivation</b>. The project arised when I was selling my car and tried to set adequate price for my advertisement.
 
