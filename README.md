@@ -4,19 +4,19 @@ There are two major types of projects represented in this repo: mini-projects, d
 
 ## Summary
 
-### Projects
+### Machine Learning Projects (production-like)
 
 1. Formula-1 Bet Predictor and Win Optimizer - predicts probabilities of every F1 driver to finish in top-10 and based on these probabilities and bookmakers coefficients calculates the optimal bet for maximum expected win.
 2. Medical Diagnostics Predictor - predicts diagnostics required for a patient based on his/her anamnesys.
-3. Online User Identity - predicts specific internet user based on his/her behavior online.
+3. Car Price Prediction - predicts used car market price based on Auto.ru ads and car characteristics.
 
-### Mini-projects
+### Data Analysis and Jupyter Projects
 
-1. Car Price Prediction - predicts used car market price based on Auto.ru ads and car characteristics.
+1. Online User Identity - predicts specific internet user based on his/her behavior online.
 2. Online Gaming Data Analysis - exploring the effect of online matching algorithm change.
 3. Car Maintenance Price Analysis - car maintenance price analysis based on car model, producer and other characteristics.
 
-## Projects
+## Machine Learning Projects (production-like)
 
 ### 1. Formula-1 Bet Predictor and Win Optimizer ([predictor](https://github.com/ruzarx/MLPr/blob/master/F1/F1_Prediction.ipynb), [Sharpe ratio optimizer](https://github.com/ruzarx/MLPr/blob/master/F1/Profit%20maximization.ipynb))
 
@@ -46,7 +46,19 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model managed to achieve over 0.6 in F1-score and 0.55 in recall compared to baseline around 0.3 for both metrics.
 
-### 3. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb))
+### 3. Car Price Prediction ((https://github.com/ruzarx/MLPr/blob/master/VW_price/VW_Price.ipynb))
+
+<b>Motivation</b>. The project arised when I was selling my car and tried to set adequate price for my advertisement.
+
+<b>Data</b>. Data was collected manually from Auto.ru. The sample consists of Volkswagen Golf cars.
+
+<b>Model</b>. As the data looks a lot like linear, LassoCV model was chosen for fitting.
+
+<b>Results</b>. The accuracy achieved on my exact car with the model differed by less than 1% compared to the price, calculated by Auto.ru algorithm.
+
+## Data Analysis and Jupyter Projects
+
+### 1. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb))
 
 <b>Motivation</b>. Final project of Yandex/MIPT Coursera specialization. It is aimed to predict a specific internet user based on his/her browsing history.
 
@@ -58,19 +70,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model showed over 0.87 with ROC-AUC score.
 
-## Mini-projects
-
-### 1. Car Price Prediction ([ipynb](https://github.com/ruzarx/MLPr/blob/master/VW_price/VW_Price.ipynb))
-
-<b>Motivation</b>. The project arised when I was selling my car and tried to set adequate price for my advertisement.
-
-<b>Data</b>. Data was collected manually from Auto.ru. The sample consists of Volkswagen Golf cars.
-
-<b>Model</b>. As the data looks a lot like linear, LassoCV model was chosen for fitting.
-
-<b>Results</b>. The accuracy achieved on my exact car with the model differed by less than 1% compared to the price, calculated by Auto.ru algorithm.
-
-### 2. Online Gaming Data Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Game_analysis/Game_matching_algorithm_analysis.ipynb))
+### 2. Online Gaming Data Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Game_analysis/Game_matching_algorithm_analysis.ipynb)) [Russian]
 
 <b>Motivation</b>. Exploration of dataset of online shooter game statistics in order for analyse the quality of changes in gamers eperience due to players matching algorithm change.
 
@@ -78,6 +78,6 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Specifics</b>. The data is specific due to online gaming features. So I conducted detailed analysis of the dataset and the effect of matching algorithm change.
 
-### 3. Car Maintenance Price Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Car_dataset/Car_Maintenance.ipynb))
+### 3. Car Maintenance Price Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Car_dataset/Car_Maintenance.ipynb)) [Russian]
 
 <b>Motivation</b>. Exploration of car maintenance price based on different car characteristics including technical ones and common ones, like car producer, model and so on.
