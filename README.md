@@ -34,7 +34,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Pure probabilistic model predicts correctly 9 out of 10 top finishers in average. Profit optimizator makes about 20% profit for a race in average.
 
-### 2. Car Price Prediction ([project page](https://github.com/ruzarx/MLPr/tree/master/VW_price))
+### 2. Car Price Prediction ([project page](https://github.com/ruzarx/MLPr/tree/master/VW%20Car%20Price%20Prediction))
 
 <b>Motivation</b>. The project arised when I was selling my car and tried to set adequate price for my advertisement.
 
@@ -46,7 +46,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 ## Data Analysis and Jupyter Projects
 
-### 1. Medical Diagnostics Predictor ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.ipynb), [html](https://github.com/ruzarx/MLPr/blob/master/Transcriptions/Diagnostics%20prediction.html)) [English]
+### 1. Medical Diagnostics Predictor ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Medical%20Diagnostics%20Prediction/Diagnostics%20prediction.ipynb), [html](https://github.com/ruzarx/MLPr/blob/master/Medical%20Diagnostics%20Prediction/Diagnostics%20prediction.ipynb)) [English]
 
 <b>Motivation></b>. Preparation for my future project with a medic companion to build a ML NLP model, which will predict required diagnostics for a patient based on his/her anamnesis, written in free text form.
 
@@ -58,7 +58,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model managed to achieve over 0.6 in F1-score and 0.55 in recall compared to baseline around 0.3 for both metrics.
 
-### 2. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online_User_Identity/User_identification.ipynb)) [Russian]
+### 2. Online User Identity ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Online%20User%20Identity/User_identification.ipynb)) [Russian]
 
 <b>Motivation</b>. Final project of Yandex/MIPT Coursera specialization. It is aimed to predict a specific internet user based on his/her browsing history.
 
@@ -70,7 +70,7 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Results</b>. Model showed over 0.87 with ROC-AUC score.
 
-### 3. Online Gaming Data Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Game_analysis/Game_matching_algorithm_analysis.ipynb)) [Russian]
+### 3. Online Gaming Data Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Data%20Analysis%20Projects/Game_analysis/Game_matching_algorithm_analysis.ipynb)) [Russian]
 
 <b>Motivation</b>. Exploration of dataset of online shooter game statistics in order for analyse the quality of changes in gamers eperience due to players matching algorithm change.
 
@@ -78,6 +78,6 @@ Another snag is a big range of randomeness of race results due to relatively lar
 
 <b>Specifics</b>. The data is specific due to online gaming features. So I conducted detailed analysis of the dataset and the effect of matching algorithm change.
 
-### 4. Car Maintenance Price Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Car_dataset/Car_Maintenance.ipynb)) [Russian]
+### 4. Car Maintenance Price Analysis ([ipynb](https://github.com/ruzarx/MLPr/blob/master/Data%20Analysis%20Projects/Car_dataset/Car_Maintenance.ipynb)) [Russian]
 
 <b>Motivation</b>. Exploration of car maintenance price based on different car characteristics including technical ones and common ones, like car producer, model and so on.
