@@ -2,3 +2,4 @@
 *.pkl
 *.json
 *__pycache__
+*.vscode
